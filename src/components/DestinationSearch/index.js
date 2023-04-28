@@ -34,7 +34,7 @@ class DestinationSearch extends Component {
             <img
               src="https://assets.ccbp.in/frontend/react-js/destinations-search-icon-img.png"
               className="search-icon"
-              alt="search-icon"
+              alt="search icon"
             />
           </div>
           <ul className="destination-list">
